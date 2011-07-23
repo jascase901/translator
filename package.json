@@ -1,8 +1,9 @@
 {
-  "name": "translator",
-  "fullName": "translator",
-  "description": "a basic add-on",
-  "author": "",
-  "license": "MPL 1.1/GPL 2.0/LGPL 2.1",
-  "version": "0.1"
+    "name": "translator", 
+    "license": "MPL 1.1/GPL 2.0/LGPL 2.1", 
+    "author": "", 
+    "version": "0.1", 
+    "fullName": "translator", 
+    "id": "jid1-3b0aY2JREeT5gw", 
+    "description": "a basic add-on"
 }
